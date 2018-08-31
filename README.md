@@ -40,7 +40,35 @@ General Studies Quiz is very helpful for those who are preparing for general com
 
 # All entries listed below
 
-## 1. Next entry
+## 1. Infinite Knowledge | Vaibhav Khulbe(Kvaibhav01.and) | Aug 14, 2018 
+
+Infinite Knowledge will ask you questions on arts, literature, politics, geography, science, culture, food and more such countless categories. It's a fun way to sharpen your general knowledge skills. 
+
+**ASK YOUR ASSISTANT**
+
+* I want to talk to Infinite Knowledge
+* Talk to Infinite Knowledge
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/InfiniteKnowledge-VaibhavKhulbe.jpeg)
+
+
+## 2. Android Riddles | Tavish Jain(TavishJain.and) | Aug 25, 2018 
+
+Android Basics tests your basic skills and concepts of Android and prepares you for any job in which you apply for as an Android Developer
+
+**ASK YOUR ASSISTANT**
+
+* Speak to Android Riddles
+* Talk to Android Riddles
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/AndroidRiddles-TavishJain.jpeg)
+
+
+## Next entry
 
 
 
