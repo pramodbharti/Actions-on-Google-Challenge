@@ -14,10 +14,11 @@ https://developers.google.com/actions/community/
 
 * Exclusive Google Assistant t-shirt.
 * $200 Google Cloud credit every month for the next year.
+* [More](https://developers.google.com/actions/community/overview)
  
 # Your Action will be listed here as example given below
 
-# ***
+# ___
 
 ## General Studies Quiz | Pramod Bharti(PramodBharti.and) | Aug 21, 2018
 
@@ -33,8 +34,13 @@ General Studies Quiz is very helpful for those who are preparing for general com
 
 ![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/GeneralStudiesQuiz-PramodBharti.jpeg)
 
-# ***
+# ___
 
 # All entries listed below
 
 ## 1. Next entry
+
+
+
+# ____________________________
+> For any query contact **@PramodBharti.and** in slack or post in **#slack_help** channel.
