@@ -1,6 +1,8 @@
 # Actions on Google Challenge
 
-In this challenge you have to build any Action for Google Assistant. Here are some resources you can check.
+In this challenge you have to build any Action for Google Assistant. Here are some resources you can check. To get listed in this repo you have to fill the Google form which I have attached in **#slack_help**'s topic. 
+Can't wait to see what you're gonna build. :wink: :heart_eyes:
+:computer: :fire: :boom: 
 
 https://developers.google.com/actions/extending-the-assistant
 
@@ -20,7 +22,7 @@ https://developers.google.com/actions/community/
 
 # ___
 
-## General Studies Quiz | Pramod Bharti(PramodBharti.and) | Aug 21, 2018
+## General Studies Quiz | Pramod Bharti(PramodBharti.and) | Aug 21, 2018 
 
 General Studies Quiz is very helpful for those who are preparing for general competition. You can practice quizzes directly in your Google Assistant.
 
