@@ -16,7 +16,7 @@ https://developers.google.com/actions/community/
 
 * Exclusive Google Assistant t-shirt.
 * $200 Google Cloud credit every month for the next year.
-* [More](https://developers.google.com/actions/community/overview)
+* [More](https://developers.google.com/actions/community/overview) and **more**(wait for surprise :wink: )
  
 # Your Action will be listed here as example given below
 
