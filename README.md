@@ -65,7 +65,7 @@ Android Basics tests your basic skills and concepts of Android and prepares you 
 
 ### Screenhots below
 
-![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/AndroidRiddles-TavishJain.jpeg)
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/AndroidRiddles-TavishJain.jpg)
 
 
 ## Next entry
