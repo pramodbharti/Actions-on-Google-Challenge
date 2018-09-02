@@ -68,6 +68,45 @@ Android Basics tests your basic skills and concepts of Android and prepares you 
 ![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/AndroidRiddles-TavishJain.jpg)
 
 
+## 3. Event Buddies | Srijeet Biswas(SrijeetBiswas.Fend) | Jul 20, 2018 
+
+Event buddies helps to get information on tips and ways to organise any event such as conference , meetups ,etc.
+
+**ASK YOUR ASSISTANT**
+
+* Can I talk to Event Buddies
+* I want to speak to Event Buddies
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/EventBuddies-SrijeetBiswas.jpeg)
+
+## 4. AI Master | Jithin K Jose(Jithin_Jude.and) | Aug 21, 2018 
+
+AI Master measures your knowledge in Artificial Intelligence and help you to increase it.
+
+**ASK YOUR ASSISTANT**
+
+* Talk to AI Master
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/AIMaster-JithinJude.jpg)
+
+## 5. Indian Premier League Quiz | Harsh Kumar(Harsh.mws) | Jun 05, 2018 
+
+A quiz on one of the biggest cricket leagues.
+In the 11-year history of IPL many new records have been created and many of them are broken and now it’s time to challenge your knowledge of Indian Premier League.
+
+**ASK YOUR ASSISTANT**
+
+* Can I speak to Indian Premier League Quiz
+* Speak to Indian Premier League Quiz
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/IndianPremierLeagueQuiz-HarshKumar.jpeg)
+
 ## Next entry
 
 
