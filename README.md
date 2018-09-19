@@ -107,9 +107,31 @@ In the 11-year history of IPL many new records have been created and many of the
 
 ![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/IndianPremierLeagueQuiz-HarshKumar.jpeg)
 
+## 6. Quiz on Flutter | Pushpal Roy(PushpalRoy.and) | Aug 31, 2018 
+
+Quiz on Flutter offers you a set of questions on Flutter, Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. It is a simple quiz application that will enhance knowledge about Flutter.
+
+**ASK YOUR ASSISTANT**
+
+* Talk to Quiz on Flutter
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/QuizOnFlutter-PushpalRoy.jpg)
+
+## 7. Amazing world quiz | Deepak Thakur(Deepak-thakur.and) | Sep 11, 2018 
+
+This  is the quiz app where all types of questions are available from history to geography, computer science to chemistry. It as useful for everyone who wants to increase their GK.
+
+**ASK YOUR ASSISTANT**
+
+* Talk to Amazing world quiz
+
+### Screenhots below
+
+
+
 ## Next entry
-
-
 
 # ____________________________
 > For any query contact **@PramodBharti.and** in slack or post in **#slack_help** channel.
