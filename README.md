@@ -130,6 +130,33 @@ This  is the quiz app where all types of questions are available from history to
 ### Screenhots below
 
 
+## 8. Have You Met Ted Trivia | Aditya Anand(imadianand.abnd) | Jun 29, 2018 
+
+Ted Mosby, an architect, recounts to his children the events that led him to meet their mother. His journey is made more eventful by the presence of his friends Lily, Marshall, Robin and Barney.
+
+**ASK YOUR ASSISTANT**
+
+* Talk To Have You Met Ted Trivia
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/HaveYouMetTrivia-AdityaAnand.png)
+
+## 9. Data Science Basics Quiz | Kinjal Rathod(KinjalRathod.and) | Sep 25, 2018 
+
+Data Science Basics Quiz will be helpful to learn and test your pre-requisite knowledge about Data Science.
+
+**ASK YOUR ASSISTANT**
+
+* Let me talk to Data Science Basics Quiz
+
+* Speak to Data Science Basics Quiz
+
+* Talk to Data Science Basics Quiz
+
+### Screenhots below
+
+![Screenhots of Action](https://github.com/pramodbharti/Actions-on-Google-Challenge/blob/master/screenshots/DataScienceBasicsQuiz-KinjalRathod.jpeg)
 
 ## Next entry
 
